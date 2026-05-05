@@ -28,5 +28,5 @@ Aplikasi PokeHub versi web sudah di-deploy menggunakan GitHub Pages dan dapat di
 
 ## Pengembang
 - **Nama:** Ghazy Fayyadh
-- **Kelas:** [Masukkan Kelas Kamu]
-- **Proyek:** Uji Kompetensi (Ujikom) Pembuatan Aplikasi
+- **Kelas:** 9b
+- **Proyek:** Uji Kompetensi (Ujikom) Pembuatan Aplikasi Flutter
